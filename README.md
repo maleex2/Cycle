@@ -1,8 +1,8 @@
-## CS317: Group App Project - Cycling Support App
+## Web application for cyclist developed for a group project
 
 **Note!: Please don't commit your node_modules directory when making changes to the project**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Original Repo](https://github.com/jamesodonnell134/React-Cycle-Support-App-Group-Q).
 
 Frameworks: React App, NPM API
 
