@@ -1,6 +1,5 @@
 ## Web application for cyclist developed for a group project
 
-**Note!: Please don't commit your node_modules directory when making changes to the project**
 
 [Original Repo](https://github.com/jamesodonnell134/React-Cycle-Support-App-Group-Q).
 
