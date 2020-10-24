@@ -3,11 +3,11 @@
 
 [Original Repo](https://github.com/jamesodonnell134/React-Cycle-Support-App-Group-Q).
 
-Frameworks: React App, NPM API
+Frameworks: React App, NPM
 
 Languages: HTML5, CSS3, JavaScript
 
-**Note:** In development mode, "Target container is not a DOM element" is throws when storing a new ride for the first time but it works fine.
+
 
 Run the following production build and not thrown: 
 ### `npm run build`
