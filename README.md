@@ -9,8 +9,6 @@ Languages: HTML5, CSS3, JavaScript
 
 
 
-Run the following production build and not thrown: 
-### `npm run build`
 
 
 ## Available Scripts
